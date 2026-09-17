@@ -13,3 +13,21 @@ Trace 2:
 
 Trace 3:
 done
+
+
+Results
+
+Trace1:
+3
+3.5
+3.0
+0.5
+0.30000000000000004 did not expect it to count all the
+                    way to 04 in decimals
+
+Trace2:
+10
+-1
+
+Trace3: 
+done
