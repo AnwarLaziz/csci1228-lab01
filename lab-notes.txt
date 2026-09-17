@@ -31,3 +31,5 @@ Trace2:
 
 Trace3: 
 done
+
+Looking at diff before committing helps to see what changed to verify.
